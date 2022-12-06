@@ -37,13 +37,12 @@ Je code moet het volgende doen:
 
 ### Indienen
 
-Maak een public repository op GitHub en mail deze naar `pieter.polmans@protonmail.com`.
+Fork deze repository op GitHub.
 
-Wanneer je denkt dat je klaar bent, stuur een aparte mail om mij te informeren dat ik kan nakijken.
+Wanneer je feedback wilt, stuur mij een mailtje. Dit mag altijd whenever je feedback nodig hebt.
 
-Je mag ALTIJD tussentijds mij een mail sturen om me te vragen eens naar de oefening te kijken voor feedback
+Deadlines zijn er uiteraard niet, dit dient gewoon als een soort bijles.
 
-Geen deadline natuurlijk, dit is enkel voor bijles 
 
 ### Bestanden
 
