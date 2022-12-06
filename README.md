@@ -14,7 +14,7 @@ Je code moet het volgende doen:
         - Mijnheer Croaat
         - Mevrou Croaat
     - ...
-- De landen moeten niet alphabetisch gesorteerd staan, maar extra punten als je dat wel doet
+- De landen moeten niet alphabetisch gesorteerd staan, maar natuurlijk beter als je dat wel doet
 
 ## Evaluatiecriteria
 
@@ -34,6 +34,16 @@ Je code moet het volgende doen:
 
 
 ## Richtlijnen
+
+### Indienen
+
+Maak een public repository op GitHub en mail deze naar `pieter.polmans@protonmail.com`.
+
+Wanneer je denkt dat je klaar bent, stuur een aparte mail om mij te informeren dat ik kan nakijken.
+
+Je mag ALTIJD tussentijds mij een mail sturen om me te vragen eens naar de oefening te kijken voor feedback
+
+Geen deadline natuurlijk, dit is enkel voor bijles 
 
 ### Bestanden
 
