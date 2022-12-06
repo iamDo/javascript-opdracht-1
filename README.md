@@ -3,8 +3,8 @@
 ## Opdracht
 
 Je code moet het volgende doen:
-
-- Een lijst van random users opvragen van `url hier`, deze code hoort uiteraard thuis in `api.js`.
+ 
+- Een lijst van random users opvragen van `https://randomuser.me/api/?results=100`, deze code hoort uiteraard thuis in `api.js`.
 - Van elk van deze users een object van de class `User` maken
 - Laat in html een lijst van users, gesorteerd per land zien, voorbeeld:
     - Belgie
