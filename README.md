@@ -12,7 +12,7 @@ Je code moet het volgende doen:
         - Jos Bortels
     - Croatie
         - Mijnheer Croaat
-        - Mevrou Croaat
+        - Mevrouw Croaat
     - ...
 - De landen moeten niet alphabetisch gesorteerd staan, maar natuurlijk beter als je dat wel doet
 
